@@ -30,9 +30,9 @@ Have fun!
 
 Solution:
 
-1 - implemented all methods according to requirement.
-2 - TransactionDAO contains code which get data from json and fill the objects.
-    a) getData()---> return all object (including duplicate transaction).
-    b) getUniqueTransaction() ---> return only unique transactions in list.
-3 - check Main method where all methods called.
+1 - implemented all methods according to requirement. 
+2 - TransactionDAO contains code which get data from json and fill the objects. 
+a) getData()---> return all object (including duplicate transaction). 
+b) getUniqueTransaction() ---> return only unique transactions in list. 
+3 - check Main method where all methods called. 
 4 - impelmented TransactionDataFetcherTest test class where all unit test cases (positive and negative) defined for all methods , used ummy data which is available in Testutil class.
